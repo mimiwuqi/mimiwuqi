@@ -1,7 +1,6 @@
 ![](./image/header_.png)
 
 
-### Hi there 👋
 
 
 <!--
